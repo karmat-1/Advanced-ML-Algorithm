@@ -27,7 +27,7 @@ Each day introduces key concepts with practical implementations, leading up to a
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python (NumPy, Pandas)
 - **Libraries:** Scikit-learn, XGBoost, LightGBM, CatBoost, Imbalanced-learn, Matplotlib/Seaborn
 - **Tools:** Jupyter Notebook, VScode, Git
